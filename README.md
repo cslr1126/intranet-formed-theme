@@ -9,10 +9,11 @@ A variation of the 7.3 Formed Theme (https://github.com/lfrsales/73-formed-theme
 3. `npm run deploy`
 
 ### Build
-Use gulp to build.  Running 'gulp build' will create a file called 'intranet-formed-theme.war' in the dist folder
+Use gulp to create a file called 'intranet-formed-theme.war' in the dist folder.  
 
 
-![screenshot](/images/screenshot.png)
+### Deploy
+Place .war file in /liferay/prd/deploy/ 
 
 ### Features
 
@@ -21,3 +22,6 @@ Use gulp to build.  Running 'gulp build' will create a file called 'intranet-for
 ### Coming soon
 
 * Intranet fragment collection
+
+
+![screenshot](/images/screenshot.png)
